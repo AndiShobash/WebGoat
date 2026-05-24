@@ -108,7 +108,7 @@
     <xstream.version>1.4.5</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
-    <tomcat.version>10.1.54</tomcat.version>
+    <tomcat.version>10.1.55</tomcat.version>
   </properties>
 
   <dependencyManagement>
