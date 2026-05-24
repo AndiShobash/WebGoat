@@ -94,7 +94,7 @@
     <!-- Use UTF-8 Encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
+    <thymeleaf.version>3.1.4.RELEASE</thymeleaf.version>
     <waittimeForServerStart>60</waittimeForServerStart>
     <webdriver.version>6.3.2</webdriver.version>
     <webgoat.context>/WebGoat</webgoat.context>
@@ -105,8 +105,7 @@
     <webwolf.port>9090</webwolf.port>
     <wiremock.version>3.13.1</wiremock.version>
     <xml-resolver.version>1.2</xml-resolver.version>
-    <xstream.version>1.4.5</xstream.version>
-    <!-- do not update necessary for lesson -->
+    <xstream.version>1.4.11</xstream.version>
     <zxcvbn.version>1.9.0</zxcvbn.version>
   </properties>
 
