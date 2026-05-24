@@ -108,6 +108,7 @@
     <xstream.version>1.4.5</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
+    <tomcat.version>10.1.55</tomcat.version>
   </properties>
 
   <dependencyManagement>
@@ -223,6 +224,11 @@
         <groupId>com.microsoft.playwright</groupId>
         <artifactId>playwright</artifactId>
         <version>1.55.0</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-web</artifactId>
+        <version>6.5.9</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
