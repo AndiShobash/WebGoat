@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>3.5.6</version>
+    <version>3.5.14</version>
   </parent>
 
   <groupId>org.owasp.webgoat</groupId>
@@ -108,6 +108,7 @@
     <xstream.version>1.4.5</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
+    <tomcat.version>10.1.54</tomcat.version>
   </properties>
 
   <dependencyManagement>
