@@ -77,7 +77,7 @@
     <java.version>25</java.version>
     <jaxb.version>2.3.1</jaxb.version>
     <jjwt.version>0.9.1</jjwt.version>
-    <jose4j.version>0.9.3</jose4j.version>
+    <jose4j.version>0.9.6</jose4j.version>
     <jquery.version>3.7.1</jquery.version>
     <jsoup.version>1.19.1</jsoup.version>
     <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
@@ -94,7 +94,7 @@
     <!-- Use UTF-8 Encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
+    <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
     <waittimeForServerStart>60</waittimeForServerStart>
     <webdriver.version>6.3.2</webdriver.version>
     <webgoat.context>/WebGoat</webgoat.context>
@@ -103,9 +103,11 @@
     <webjars-locator-core.version>0.59</webjars-locator-core.version>
     <webwolf.context>/WebWolf</webwolf.context>
     <webwolf.port>9090</webwolf.port>
+    <tomcat.version>10.1.55</tomcat.version>
+    <spring-security.version>6.5.9</spring-security.version>
     <wiremock.version>3.13.1</wiremock.version>
     <xml-resolver.version>1.2</xml-resolver.version>
-    <xstream.version>1.4.5</xstream.version>
+    <xstream.version>1.4.21</xstream.version>
     <!-- do not update necessary for lesson -->
     <zxcvbn.version>1.9.0</zxcvbn.version>
   </properties>
